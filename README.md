@@ -21,5 +21,5 @@ The code is uploaded as .ipynb file.
 ## Summary
 - Used anonymous but real source women’s clothing E-Commerce reviews dataset (data size = 23486) to cluster and discovered latent semantic structures via **Python**.
 - Preprocessed text by sentiment-based split, tokenization, stemmimg, removing stop words and implemented feature engineering by **term frequency- inverse document frequency (TF-IDF)** based on bigram.
-- Bulit unsupervised learning model of **K-Means Clustering method** (K = 5) to grouped features.
-- Performed **Latent Dirichlet Allocation (LDA)** method for topic modeling (topic number = 5).
+- Bulit unsupervised learning model of **K-Means Clustering method** (K = 5) and **Latent Dirichlet Allocation (LDA)** method (topic number = 5).
+- Identified grouped features and latent topics for each category. 
