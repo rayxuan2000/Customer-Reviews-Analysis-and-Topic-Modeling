@@ -16,6 +16,8 @@ The data is from [here](https://snap.stanford.edu/data/web-Amazon.html). The dat
 - Department Name: Categorical name of the product department name.
 - Class Name: Categorical name of the product class name.
 
+The code is uploaded as .ipynb file.
+
 ## Summary
 - Used anonymous but real source women’s clothing E-Commerce reviews dataset (data size = 23486) to cluster and discovered latent semantic structures via **Python**.
 - Preprocessed text by sentiment-based split, tokenization, stemmimg, removing stop words and implemented feature engineering by **term frequency- inverse document frequency (TF-IDF)** based on bigram.
